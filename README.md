@@ -4,6 +4,8 @@ Source Ataque.py
 translate the tutorial into English or the language you are used to
 the tutorial is in Brazilian Portuguese
 
+INSTALL NMAP: https://nmap.org/
+
 Passo 1: Preparação do Ambiente
 Instalação do Python:
 
